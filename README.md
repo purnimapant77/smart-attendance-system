@@ -23,6 +23,7 @@ This project is being developed as a practical introduction to Artificial Intell
 - SQLite
 - Streamlit / Tkinter
 - NumPy
+- Pandas
 - Git & GitHub
 
 ---
@@ -44,7 +45,7 @@ The project is currently in the planning and research phase. Development will be
 ---
 ## 👥 Contributors
 - Dristi Shakya — AI & Face Recognition
-- Purnima Pant — Backend Development
+- Purnima Pant — Backend Development & Database
 - Smrity Thapa — Frontend Development & Quality Assurance
 
 ---
